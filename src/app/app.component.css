@@ -1,0 +1,4 @@
+.pending { color:rgb(34, 37, 35)}
+.correct {color:green}
+.incorrect{color:red; 
+              font-weight: bold;}
